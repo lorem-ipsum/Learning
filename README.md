@@ -3,6 +3,7 @@
 ## Blockchain
 
 - [ ] [Gary Gensler's Course](https://www.youtube.com/watch?v=EH6vE97qIP4&list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
+- [ ] [Berkeley DeFi Course](https://berkeley-defi.github.io/f21)
 
 ## Psychology
 
