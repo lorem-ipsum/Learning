@@ -8,3 +8,7 @@
 ## Psychology
 
 - [ ] [Paul Bloom's Course](https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F)
+
+## Others
+
+- [ ] [Justice with Michael Sandel](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6)
