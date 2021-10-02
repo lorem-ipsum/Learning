@@ -8,6 +8,7 @@
 ## Philosophy
 
 - [ ] [Justice with Michael Sandel](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6)
+- [ ] [Death with Shelly Kagan](https://www.youtube.com/watch?v=p2J7wSuFRl8&list=PLEA18FAF1AD9047B0)
 
 ## Psychology
 
